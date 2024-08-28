@@ -19,3 +19,8 @@ I have done the first one for you, as an example.
 | $f(n)= 4n^5 $ |  | $g(n)= 5n^4$ |
 | $f(n) = 10^{256}$ |  | $g(n) = \log n$ |
 | $f(n)= n^2 $ |  | $g(n)= 2^n$ |
+
+$f(n)= 10n + 3\log_{15} n > g(n)= 4n - 2\log_2 n$, $\all n > 1$ so the answer is 4.
+
+I used this site:
+https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/
