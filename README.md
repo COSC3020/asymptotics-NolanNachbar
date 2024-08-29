@@ -50,7 +50,7 @@ $f(n)= n^2 << g(n)= 2^n$ so 1.
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
-I used this site for the definitions of O, Omega, and Theta. I hadn't seen them except for big O before:
+I used this site for the definitions of O, Omega, and Theta. I had only seen big O before:
 https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/
 
 I also plotted the functions on desmos
